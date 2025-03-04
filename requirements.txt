@@ -1,1 +1,4 @@
-p
+torch
+torchvision
+matplotlib
+scikit-learn
